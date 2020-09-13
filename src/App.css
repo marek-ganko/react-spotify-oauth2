@@ -9,7 +9,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-float infinite 3s ease-in-out;
+    animation: App-logo-float infinite 1s ease-in-out;
   }
 }
 
@@ -31,7 +31,7 @@
     transform: translateY(0);
   }
   50% {
-    transform: translateY(10px)
+    transform: translateY(5px)
   }
   100% {
     transform: translateY(0px)

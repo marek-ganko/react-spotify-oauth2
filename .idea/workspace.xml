@@ -1,13 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df0b41f4-da86-42bf-a985-491a5854d59e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/authorization/Authorization.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/authorization/authorizationSlice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/spotifyExample/SpotifyExample.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/spotifyExample/SpotifyExample.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/spotifyExample/spotifyExampleSlice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oauthConfig.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/hashUtils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/Counter.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/authorization/Counter.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/Counter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/counterSlice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hSNHKEm2cXfeHg3YUp7XK4jafj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/features/authorization" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -48,5 +105,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="aws.lambda" factoryName="Remote">
+      <option name="credentialProviderId" />
+      <option name="regionId" />
+      <option name="functionName" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df0b41f4-da86-42bf-a985-491a5854d59e" name="Default Changelist" comment="" />
+      <created>1600000445053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600000445053</updated>
+      <workItem from="1600000446548" duration="12944000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="896" y="560" width="896" height="560" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600009089040">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="896" y="560" width="896" height="560" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1600009089040" />
+    <state x="0" y="674" width="604" height="423" key="DiffContextDialog" timestamp="1600021950241">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="0" y="674" width="604" height="423" key="DiffContextDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600021950241" />
+    <state x="0" y="23" width="1792" height="1097" key="RollbackChangesDialog" timestamp="1600021953568">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="0" y="23" width="1792" height="1097" key="RollbackChangesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600021953568" />
+    <state x="806" y="398" width="986" height="722" key="SettingsEditor" timestamp="1600017891263">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="-1920" y="23" width="1920" height="1057" key="SettingsEditor/-1920.23.1920.1057/0.23.1344.817@-1920.23.1920.1057" timestamp="1600002777851" />
+    <state x="806" y="398" width="986" height="722" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1600017891263" />
+    <state x="987" y="267" width="670" height="702" key="search.everywhere.popup" timestamp="1600019233552">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="-863" y="258" width="670" height="676" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1344.817@-1920.23.1920.1057" timestamp="1600002727916" />
+    <state x="987" y="267" width="670" height="702" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1600019233552" />
   </component>
 </project>

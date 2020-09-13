@@ -1,5 +1,5 @@
 {
-  "name": "spotify-oauth2-tutorial",
+  "name": "react-spotify-oauth2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,5 +38,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "prettier": {
+    "bracketSpacing": true,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "prettier": "^2.1.1"
   }
 }
